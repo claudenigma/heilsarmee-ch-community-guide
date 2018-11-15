@@ -1,5 +1,12 @@
 #!/bin/sh
 
+
+echo Building and pushing site to gh-pages branch
+
+
+mkdocs gh-deploy
+
+
 echo Adding new files to git
 
 
@@ -15,10 +22,10 @@ echo Commiting changes with comment $commentvar
 git commit -am "$commentvar"
 
 
-echo Building and pushing site to gh-pages branch
+echo Pushing docs and site to master branch
 
 
-mkdocs gh-deploy
+git push origin master
 
 
 echo Documentation updated
