@@ -1,4 +1,4 @@
-# Heilsarmee Community Websites Benutzerhandbuch v2
+# Heilsarmee Community Websites Benutzerhandbuch
 
 #### Français bientôt
 
