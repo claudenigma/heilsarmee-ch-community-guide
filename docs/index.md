@@ -5,6 +5,8 @@
 
 Herzlich Willkommen zum Handbuch für die Webseiten-Administratoren der Heilsarmee Community. Hier werden vom Login bis zur Veröffentlichung alle Aspekte des neuen Tools für Ihre Webseiten durchgegangen und versucht die meisten Ihrer Fragen zu beantworten. Falls Sie noch weitere Hilfe benötigen, Fragen haben oder Fehler finden, so sehen Sie unten eine [Liste von Kontaktpersonen](#kontaktpersonen), an welche Sie sich wenden können.
 
+Aktuell können Sie sich hier noch zu den Ateliers in Biel, Zürich und Genf in der Woche 28.1. - 1.2.2019 an: [Anmeldeformular](https://calendly.com/ateliers-heilsarmee)
+
 ## Sich Zurecht Finden
 
 Sie können auf verschiedene Weisen durch dieses navigieren. Oben im Menü finden Sie alle Kapitel der Dokumentation in vier Kategorien gegliedert. Mit den Buttons "Previous" und "Next" (oben rechts) können Sie das komplette Handbuch Seite für Seite durchgehen. Wenn Sie Informationen zu einem bestimmten Thema suchen, so benutzen Sie die Suchfunktion über den Button "Search" (oben rechts). Weiter unten auf dieser Seite folgt zusätzlich ein [Inhaltsverzeichnis über die gesamte Dokumentation](#inhaltsverzeichnis). Sie finden dort auch einen [Download-Link um das gesamte Handbuch als PDF herunterzuladen](#pdf-download), falls Sie es gerne auf Papier ausdrucken möchten.
@@ -85,4 +87,6 @@ Sie können auf verschiedene Weisen durch dieses navigieren. Oben im Menü finde
 
 ## PDF-Download
 
-> to-do: PDF Download Link
+> to-do: PDF Download Link German
+
+> to-do: PDF Download Link French
