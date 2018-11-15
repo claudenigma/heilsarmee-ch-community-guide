@@ -1,11 +1,10 @@
-# Heilsarmee Community Websites Dokumentation
+# Heilsarmee Community Websites Benutzerhandbuch
 
-"Français ici"
-> todo: Link zur franz. Version
+#### Français bientôt
 
 Herzlich Willkommen zum Handbuch für die Webseiten-Administratoren der Heilsarmee Community. Hier werden vom Login bis zur Veröffentlichung alle Aspekte des neuen Tools für Ihre Webseiten durchgegangen und versucht die meisten Ihrer Fragen zu beantworten. Falls Sie noch weitere Hilfe benötigen, Fragen haben oder Fehler finden, so sehen Sie unten eine [Liste von Kontaktpersonen](#kontaktpersonen), an welche Sie sich wenden können.
 
-Aktuell können Sie sich hier noch zu den Ateliers in Biel, Zürich und Genf in der Woche 28.1. - 1.2.2019 an: [Anmeldeformular](https://calendly.com/ateliers-heilsarmee)
+Aktuell können Sie sich hier noch zu den Ateliers in Biel, Zürich und Genf in der Woche 28.1. - 1.2.2019 anmelden: [Anmeldeformular](https://calendly.com/ateliers-heilsarmee)
 
 ## Sich Zurecht Finden
 
@@ -87,6 +86,4 @@ Sie können auf verschiedene Weisen durch dieses navigieren. Oben im Menü finde
 
 ## PDF-Download
 
-> to-do: PDF Download Link German
-
-> to-do: PDF Download Link French
+Kommt bald
