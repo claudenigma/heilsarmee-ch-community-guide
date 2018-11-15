@@ -13,13 +13,16 @@ Sie können auf verschiedene Weisen durch dieses navigieren. Oben im Menü finde
 ## Kontaktpersonen
 
 #### Für Fragen zur Gestaltung und der Heilsarmee-Marke:
-> Heilsarmee Marketing Kontaktperson
+
+Kommt bald
 
 #### Für technische Probleme, offene Fragen und Fehler:
-> enigma@heilsarmee.ch ?
+
+Kommt bald
 
 #### Für allgemeine, persönliche Unterstützung beim erstellen Ihrer Webseite:
-> Erfahrene Benutzer aus der Community
+
+Kommt bald
 
 ## Inhaltsverzeichnis
 
