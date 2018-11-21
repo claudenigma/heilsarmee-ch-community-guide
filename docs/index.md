@@ -2,27 +2,17 @@
 
 #### Français bientôt
 
-Herzlich Willkommen zum Handbuch für die Webseiten-Administratoren der Heilsarmee Community. Hier werden vom Login bis zur Veröffentlichung alle Aspekte des neuen Tools für Ihre Webseiten durchgegangen und versucht die meisten Ihrer Fragen zu beantworten. Falls Sie noch weitere Hilfe benötigen, Fragen haben oder Fehler finden, so sehen Sie unten eine [Liste von Kontaktpersonen](#kontaktpersonen), an welche Sie sich wenden können.
+Herzlich Willkommen zum Handbuch für die Webseiten-Administratoren der Heilsarmee Community. Hier werden vom Login bis zur Veröffentlichung alle Aspekte des neuen Tools für Ihre Webseiten durchgegangen. Wir versuchen die meisten Ihrer Fragen zu beantworten. Falls Sie noch weitere Hilfe benötigen, Fragen haben oder Fehler finden, so sehen Sie unten eine [Adresse](#hilfe), an welche Sie sich wenden können.
 
 Aktuell können Sie sich hier noch zu den Ateliers in Biel, Zürich und Genf in der Woche 28.1. - 1.2.2019 anmelden: [Anmeldeformular](https://calendly.com/ateliers-heilsarmee)
 
-## Sich Zurecht Finden
+## Sich zurecht finden
 
-Sie können auf verschiedene Weisen durch dieses navigieren. Oben im Menü finden Sie alle Kapitel der Dokumentation in vier Kategorien gegliedert. Mit den Buttons "Previous" und "Next" (oben rechts) können Sie das komplette Handbuch Seite für Seite durchgehen. Wenn Sie Informationen zu einem bestimmten Thema suchen, so benutzen Sie die Suchfunktion über den Button "Search" (oben rechts). Weiter unten auf dieser Seite folgt zusätzlich ein [Inhaltsverzeichnis über die gesamte Dokumentation](#inhaltsverzeichnis). Sie finden dort auch einen [Download-Link um das gesamte Handbuch als PDF herunterzuladen](#pdf-download), falls Sie es gerne auf Papier ausdrucken möchten.
+Sie können auf verschiedene Weisen durch das Handbuch navigieren. Oben im Menü finden Sie alle Kapitel der Dokumentation in vier Kategorien gegliedert. Mit den Buttons "Previous" und "Next" (oben rechts) können Sie das komplette Handbuch Seite für Seite durchgehen. Wenn Sie Informationen zu einem bestimmten Thema suchen, so benutzen Sie die Suchfunktion über den Button "Search" (oben rechts). Weiter unten auf dieser Seite folgt zusätzlich ein [Inhaltsverzeichnis über die gesamte Dokumentation](#inhaltsverzeichnis). Sie finden dort auch einen [Download-Link um das gesamte Handbuch als PDF herunterzuladen](#pdf-download).
 
-## Kontaktpersonen
+## Hilfe
 
-#### Für Fragen zur Gestaltung und der Heilsarmee-Marke:
-
-Kommt bald
-
-#### Für technische Probleme, offene Fragen und Fehler:
-
-Kommt bald
-
-#### Für allgemeine, persönliche Unterstützung beim erstellen Ihrer Webseite:
-
-Kommt bald
+[enigma@heilsarmee.ch](mailto:enigma@heilsarmee.ch)
 
 ## Inhaltsverzeichnis
 
@@ -78,14 +68,14 @@ Kommt bald
     + [Permalinks: Verlinken auf Anchors](de/03.01-quicklinks.md#permalinks-verlinken-auf-anchors)
     + [Quicklinks](de/03.01-quicklinks.md#quicklinks)
 - [Auswahl von Icons](de/03.02-icons.md)
-    + [Besser Suchen](de/03.02-icons.md#besser-suchen)
+    + [Besser suchen](de/03.02-icons.md#besser-suchen)
 - [Externe Seiten einbetten](de/03.03-embed.md)
     + [iFrames](de/03.03-embed.md#iframes)
-    + [ChurchTools Calendar Modul](de/03.03-embed.md#churchtools-calendar-modul)
-    + [ChurchTools Calendar anders einsetzen](de/03.03-embed.md#churchtools-calendar-anders-einsetzen)
-    + [iFrames Manuell Einfügen (für Fortgeschrittene)](de/03.03-embed.md#iframes-manuell-einfugen-fur-fortgeschrittene)
+    + [ChurchTools-Calendar-Modul](de/03.03-embed.md#churchtools-calendar-modul)
+    + [ChurchTools-Calendar anders einsetzen](de/03.03-embed.md#churchtools-calendar-anders-einsetzen)
+    + [iFrames manuell einfügen (für Fortgeschrittene)](de/03.03-embed.md#iframes-manuell-einfugen-fur-fortgeschrittene)
 - [Mehrsprachigkeit](de/03.04-multilingual.md)
-- [Veröffentlichung](de/03.05-finish.md)
+- [Veröffentlichung Ihrer Webseite](de/03.05-finish.md)
 
 ## PDF-Download
 
