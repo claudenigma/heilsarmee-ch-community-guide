@@ -32,6 +32,8 @@ Sie können auf verschiedene Weisen durch das Handbuch navigieren. Oben im Menü
     + [Menü-Hintergrundbild](de/00.03-config.md#menu-hintergrundbild)
     + [Institution](de/00.03-config.md#institution)
     + [Kontakt E-Mail](de/00.03-config.md#kontakt-e-mail)
+    + [Header](de/00.03-config.md#header)
+    + [Footer](de/00.03-config.md#footer)
 - [Bilder auswählen](de/01.00-choosing-images.md)
     + [Auflösung](de/01.00-choosing-images.md#auflosung)
     + [Komposition](de/01.00-choosing-images.md#komposition)
