@@ -1,6 +1,6 @@
 # Heilsarmee Community Websites Benutzerhandbuch
 
-#### Français bientôt
+[FRANÇAIS ICI](https://community.heilsarmee.ch/guide-fr)
 
 Herzlich Willkommen zum Handbuch für die Webseiten-Administratoren der Heilsarmee Community. Hier werden vom Login bis zur Veröffentlichung alle Aspekte des neuen Tools für Ihre Webseiten durchgegangen. Wir versuchen die meisten Ihrer Fragen zu beantworten. Falls Sie noch weitere Hilfe benötigen, Fragen haben oder Fehler finden, so sehen Sie unten eine [Adresse](#hilfe), an welche Sie sich wenden können.
 
