@@ -1,7 +1,10 @@
 site_name: Heilsarmee Community Guide
-theme: flatly
+theme: 'flatly'
 extra_css:
   - extra.css
+plugins:
+  - search:
+      lang: de
 nav:
 - Home: 'index.md'
 - Start:
