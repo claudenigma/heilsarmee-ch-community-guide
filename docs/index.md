@@ -6,7 +6,7 @@ Herzlich Willkommen zum Handbuch für die Webseiten-Administratoren der Heilsarm
 
 Aktuell können Sie sich hier noch zu den Ateliers in Biel, Zürich und Genf in der Woche 28.1. - 1.2.2019 anmelden: [Anmeldeformular](https://calendly.com/ateliers-heilsarmee)
 
-## Sich zurecht finden
+## Sich zurechtfinden
 
 Sie können auf verschiedene Weisen durch das Handbuch navigieren. Oben im Menü finden Sie alle Kapitel der Dokumentation in vier Kategorien gegliedert. Mit den Buttons "Previous" und "Next" (oben rechts) können Sie das komplette Handbuch Seite für Seite durchgehen. Wenn Sie Informationen zu einem bestimmten Thema suchen, so benutzen Sie die Suchfunktion über den Button "Search" (oben rechts). Weiter unten auf dieser Seite folgt zusätzlich ein [Inhaltsverzeichnis über die gesamte Dokumentation](#inhaltsverzeichnis). Sie finden dort auch einen [Download-Link um das gesamte Handbuch als PDF herunterzuladen](#pdf-download).
 
@@ -17,7 +17,7 @@ Sie können auf verschiedene Weisen durch das Handbuch navigieren. Oben im Menü
 ## Inhaltsverzeichnis
 
 - [Home](index.md)
-    + [Sich zurecht finden](index.md#sich-zurecht-finden)
+    + [Sich zurechtfinden](index.md#sich-zurechtfinden)
     + [Kontaktpersonen](index.md#kontaktpersonen)
 - [Vorbereitung](de/00.00-prep.md)
     + [Browser](de/00.00-prep.md#browser)
